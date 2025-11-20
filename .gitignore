@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+
+# Streamlit / cache
+.streamlit/
